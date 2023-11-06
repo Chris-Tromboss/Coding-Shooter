@@ -5,6 +5,7 @@ MonoImporter:
   serializedVersion: 2
   defaultReferences:
   - enemyOnePrefab: {fileID: 4316986367659867104, guid: 01c7ecfdd1994e444a30866ef605db30, type: 3}
+  - enemyTwoPrefab: {fileID: 4316986367659867104, guid: 2b6df971313f18e48926bc3c8e05c515, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
